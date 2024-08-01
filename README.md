@@ -27,19 +27,31 @@ Sou apaixonado por desenvolvimento back-end, mas também possuo amplo conhecimen
 
 ## Meus Projetos
 
-### Em 2020-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+### Primeiro Semestre (2020-2)
+O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Fabiano Sabha Walczak, que assumiu o papel de cliente final. 
+
+O problema apresentado consistia na necessidade de prover aos alunos do curso uma calculadora científica com funções de conversão de bases, para auxiliar nas aulas da disciplina Organização de Computadores.
+
+Como solução, minha equipe desenvolveu um sistema desktop com as funções de soma, subtração, multiplicação, divisão, exponenciação e conversão de bases entre decimal, hexadecimal, octal e binário. 
 
 [GIT](https://www.git.com)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+As seguintes tecnologias foram utilizadas nesse projeto:
+* Java - Linguagem de programação utilizada tanto no back-end quanto no front-end;
+* JavaFX - Plataforma de software, baseada em Java, utilizada nas telas de front-end;
+* JavaFX Scene Builder - Ferramenta para design visual das telas.
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Nesse projeto atuei como desenvolvedor e construí a tela principal da calculadora, reproduzindo, por meio do Scene Builder, o design enviado pelo Product Owner da forma mais fiel possível. Também fui responsável pela funcionalidade de conversão entre decimal e octal, além de auxiliar no Quality Assurance do sistema.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+Exercitei as seguintes hard skills durante esse projeto:
+* Java - Uso com ajuda;
+* JavaFX - Uso com autonomia;
+* JavaFX Scene Builder - Uso com autonomia.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+Durante esse projeto tive que usar de resiliência e positividade para conseguir realizar as entregas, pois a carga de trabalho subiu consideravelmente após a desistência abrupta de dois membros, um deles o Product Owner. Infelizmente, perdemos a primeira Sprint, mas, graças à colaboração dos demais membros da equipe, conseguimos redistribuir as tarefas, reduzir o escopo e, ao final, entregamos um bom sistema. 
+
+Também precisei usar de empatia para lidar com um membro com sérias dificuldades de aprendizagem e que nunca teve contato prévio com um computador. Por esses motivos, ele não conseguia entregar as tarefas nos prazos acordados, prejudicando a equipe. Nós marcamos algumas seções de estudo, onde eu o auxiliava no desenvolvimento das tarefas. Como resultado, o aluno apresentou um ótimo crescimento, finalizando diversas tarefas sem qualquer supervisão durante a última Sprint.
