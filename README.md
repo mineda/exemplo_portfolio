@@ -30,7 +30,7 @@ Sou apaixonado por desenvolvimento back-end, mas também possuo amplo conhecimen
 ### Primeiro Semestre (2020-2)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Fabiano Sabha Walczak, que assumiu o papel de cliente final. 
 
-O problema apresentado consistia na necessidade de prover aos alunos do curso uma calculadora científica com funções de conversão de bases, para auxiliar nas aulas da disciplina Organização de Computadores.
+O problema apresentado consistia na dificuldade dos alunos da disciplina Organização de Computadores de realizar operações matemáticas complexas, especialmente conversões de bases.
 
 Como solução, minha equipe desenvolveu um sistema desktop com as funções de soma, subtração, multiplicação, divisão, exponenciação e conversão de bases entre decimal, hexadecimal, octal e binário. 
 
